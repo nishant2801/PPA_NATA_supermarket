@@ -1,0 +1,10 @@
+{
+  "Absurd": 0,
+  "Alone": 1,
+  "Divorced": 2,
+  "Married": 3,
+  "Single": 4,
+  "Together": 5,
+  "Widow": 6,
+  "YOLO": 7
+}
