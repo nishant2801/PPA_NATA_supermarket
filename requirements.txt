@@ -28,7 +28,7 @@ ipython==9.7.0
 ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 Jinja2==3.1.6
-joblib==1.5.2
+joblib==1.4.2
 jsonschema==4.25.1
 jsonschema-specifications==2025.9.1
 jupyter_client==8.6.3
@@ -92,3 +92,4 @@ watchdog==6.0.0
 wcwidth==0.2.14
 webencodings==0.5.1
 yellowbrick==1.5
+
